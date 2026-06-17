@@ -1,8 +1,5 @@
 {
-  "build": {
-    "builder": "NIXPACKS",
-    "buildCommand": "npm install"
-  },
+  "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
     "startCommand": "node server.js"
   }
